@@ -1,3 +1,9 @@
 welcome to centos 7
 welcome to india
 hello prakash
+#include <stdio.h>
+int main() {
+   // printf() displays the string inside quotation
+   printf("Hello, World!");
+   return 0;
+}
